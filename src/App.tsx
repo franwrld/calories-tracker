@@ -14,11 +14,9 @@ function App() {
 
       <section className="bg-indigo-200 py-20 px-5">
         <div className="max-w-4xl mx-auto">
-          <form action="">
             <Form 
             
             />
-          </form>
         </div>
       </section>
     </>
