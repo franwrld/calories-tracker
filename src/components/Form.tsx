@@ -80,7 +80,7 @@ export default function Form({dispatch, state} : FormProps) {
                     type="text" 
                     id="name"
                     className="border border-slate-300 p-2 rounded-lg"
-                    placeholder="Ej. Comida, Jugo, Ensalada.."
+                    placeholder="Ej. Ensalada, Pesas, Jugo, Caminata.."
                     value={activity.name}
                     onChange={handleChange}
                 />
